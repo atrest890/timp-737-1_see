@@ -1,6 +1,3 @@
-- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
-- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
-
 # **timp-737-1_see**
 Репозиторий для практических работ по ТиМП 2019 г. ТУСУР
 
